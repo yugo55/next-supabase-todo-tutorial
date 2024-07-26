@@ -7,6 +7,7 @@ module.exports = {
   theme: {
     extend: {
       colors: {
+        'black-rgba': 'rgba(0, 0, 0, 0.3)',
         background: "hsl(var(--background))",
         foreground: "hsl(var(--foreground))",
         btn: {
